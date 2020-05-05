@@ -26,7 +26,6 @@ visit http://localhost:8081 in your browser.
 sudo npm install
 
 sudo ln -s /usr/bin/nodejs /usr/bin/node
-
 ```
 &&
 
