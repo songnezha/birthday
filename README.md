@@ -19,7 +19,7 @@ cd Birthday
 python -m SimpleHTTPServer --port  8081
 ```
 
-visit http://localhost:8081 in your browser.
+visit http://localhost in your browser.
 
 ## If you have nodejs installed
 ```
@@ -32,5 +32,5 @@ sudo ln -s /usr/bin/nodejs /usr/bin/node
 ```
 nohup npm run server-node &
 ```
-visit http://localhost:8081 in your browser.
+visit http://localhost in your browser.
 
