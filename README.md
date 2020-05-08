@@ -30,7 +30,7 @@ sudo ln -s /usr/bin/nodejs /usr/bin/node
 &&
 
 ```
-nohup npm run server-node &
+nohup sudo npm run server-node &
 ```
 visit http://localhost in your browser.
 
